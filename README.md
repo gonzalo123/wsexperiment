@@ -14,3 +14,5 @@ php -S 0.0.0.0:8080 -t www
 ## Run the socket.io server for websockets
 
 node server/io.js
+
+[![screencast](http://img.youtube.com/vi/8gTZ2kYTx8U/0.jpg)](http://www.youtube.com/watch?v=8gTZ2kYTx8U)
