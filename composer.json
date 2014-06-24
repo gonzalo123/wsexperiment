@@ -1,0 +1,18 @@
+{
+    "name": "gonzalo123/ws_experiment",
+    "authors": [
+        {
+            "name": "Gonzalo Ayuso",
+            "email": "gonzalo123@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "2.0.*@dev",
+        "pimple/pimple": "~2.1@dev"
+    },
+    "autoload":{
+        "psr-0":{
+            "G":"src/"
+        }
+    }
+}
