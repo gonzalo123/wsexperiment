@@ -3,9 +3,11 @@ WebSockets experiment
 
 ## Install dependencies:
 
+```
 npm install
 bower install
 composer install
+````
 
 ## Run the http server
 
